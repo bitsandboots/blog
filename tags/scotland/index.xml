@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scotland on Bits and Boots</title>
+    <link>https://bitsandboots.github.io/blog/tags/scotland/</link>
+    <description>Recent content in Scotland on Bits and Boots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).</copyright>
+    <lastBuildDate>Sat, 21 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bitsandboots.github.io/blog/tags/scotland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Alder Way</title>
+      <link>https://bitsandboots.github.io/blog/2017/10/the-alder-way/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bitsandboots.github.io/blog/2017/10/the-alder-way/</guid>
+      <description>Fort William to Aviemore via Ben Alder and the Cairngorms  Total distance (planned): 220KM (140 miles) Total distance (Actual): 180KM (110 miles) I made some errors in planning regarding daily distances, sometimes up to 10KM more than I could fit into a day.  Day 1 - Thursday Night/Friday  Distance: 27KM Route: Fort William, through Glen Nevis to near Loch Treig (Staoineag Bothy) Weather: Drizzle for much of the day, dry evening.</description>
+    </item>
+    
+  </channel>
+</rss>

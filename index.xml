@@ -34,5 +34,14 @@ hugo new site bitsandboots  Install and configure a theme Install a theme</descr
 The site was built using Hugo and the bootstrap4-blog theme, and generously hosted on Github Pages.</description>
     </item>
     
+    <item>
+      <title>The Alder Way</title>
+      <link>https://bitsandboots.github.io/blog/2017/10/the-alder-way/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bitsandboots.github.io/blog/2017/10/the-alder-way/</guid>
+      <description>Fort William to Aviemore via Ben Alder and the Cairngorms  Total distance (planned): 220KM (140 miles) Total distance (Actual): 180KM (110 miles) I made some errors in planning regarding daily distances, sometimes up to 10KM more than I could fit into a day.  Day 1 - Thursday Night/Friday  Distance: 27KM Route: Fort William, through Glen Nevis to near Loch Treig (Staoineag Bothy) Weather: Drizzle for much of the day, dry evening.</description>
+    </item>
+    
   </channel>
 </rss>

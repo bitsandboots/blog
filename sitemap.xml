@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://bitsandboots.github.io/blog/2017/10/the-alder-way/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bitsandboots.github.io/blog/</loc>
     <lastmod>2017-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -54,8 +59,20 @@
   </url>
   
   <url>
+    <loc>https://bitsandboots.github.io/blog/tags/scotland/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bitsandboots.github.io/blog/tags/</loc>
     <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bitsandboots.github.io/blog/tags/walking/</loc>
+    <lastmod>2017-10-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
